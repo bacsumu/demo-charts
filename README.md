@@ -1,1 +1,1 @@
-# demo-helm-chart
+# demo-charts
